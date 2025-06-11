@@ -33,8 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/VtK9X31" data-context="false" ><a href="//imgur.com/a/VtK9X31"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+![Description of video](https://i.imgur.com/cMUEG7m.mp4)
 
 ## Notes
 
