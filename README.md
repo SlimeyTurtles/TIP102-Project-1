@@ -33,8 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='./demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![Description of video](./demo.gif)
+![Video walkthrough](https://raw.githubusercontent.com/SlimeyTurtles/TIP102-Project-1/refs/heads/main/demo.gif)
 
 ## Notes
 
