@@ -33,7 +33,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Description of video](https://i.imgur.com/cMUEG7m.mp4)
+<img src='./demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Description of video](./demo.gif)
 
 ## Notes
 
